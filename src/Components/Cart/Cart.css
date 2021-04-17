@@ -1,0 +1,9 @@
+.cartStyle{
+    border: 1px solid black;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 5px;
+    width: 800px;
+    background-color: rgb(242, 248, 247);
+    font-family: cursive;
+}
